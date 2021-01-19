@@ -6,7 +6,7 @@ var contact = document.getElementById("google");
 var contactDetail = document.getElementById("contact-detail");
 
 var activeColour = "#fff";
-var inactiveColour = "#002966";
+var inactiveColour = "#000000";
 
 window.onload = function () {
     oldButton.style.color = oldButton.style.borderBottomColor = activeColour;
