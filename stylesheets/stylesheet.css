@@ -87,7 +87,7 @@ p {
     margin-left: 10px;
     margin-right: 10px;
     display: block;
-    color: #002966;
+    color: #000000;
 }
 
 .content-item:hover{
@@ -112,7 +112,7 @@ p {
 
 .fa-google, .fa-linkedin {
     padding:10px 30px 10px 30px;
-    color: blue;
+    color: #000000;
 }
 
 .flexi{
